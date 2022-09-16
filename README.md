@@ -10,11 +10,11 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 🛠 Tecnlogias 
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## Contato
 
-E-mail: brunoireinaldo@gmail.com
+E-mail: brunoireinaldo@gmail.com\
 Linkedin: https://www.linkedin.com/in/brunoireinaldo/
